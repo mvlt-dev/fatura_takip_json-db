@@ -11,6 +11,9 @@ PHP ve JSON tabanlı basit ve etkili bir fatura yönetim uygulaması.
 - 📱 Responsive tasarım
 - 🎯 Mevcut aya otomatik odaklanma
 
+  index.php :  Bu ilk sürüm bütün veriler tablo olarak yıllara aylara bölünerek tüm sayfada görüntülenir.
+  index1v5-2gem.php : Bu dosya geliştirme aşamasında, sayfa ilk açıldığında mevcut tarihe odaklanır sayfayı kaydırmanıza gerek kalmaz, tablodaki tarih ve ödenme tarihine göre listeleme yaılabilir.
+
 ## Kullanım
 1. Dosyaları web sunucunuza yükleyin
 2. `faturalar.json` dosyası otomatik oluşacaktır
